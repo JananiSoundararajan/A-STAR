@@ -50,7 +50,7 @@
     end (while loop)
 
 ```
-## PROGRAM:
+## Program:
 ``` py
 from collections import defaultdict
 H_dist ={}
